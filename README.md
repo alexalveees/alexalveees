@@ -13,3 +13,4 @@
 - TypeScript
 - Node.js
 - Mongo.db
+- Redux
