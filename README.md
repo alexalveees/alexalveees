@@ -14,3 +14,5 @@
 - Node.js
 - Mongo.db
 - Redux
+- Angular
+- Firebase
