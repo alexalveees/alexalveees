@@ -5,6 +5,8 @@
 - Belo Horizonte, MG
 
 ###  Tecnologias
+- Java
+- Spring MVC
 - HTML
 - CSS
 - JavaScript
