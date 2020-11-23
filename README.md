@@ -14,7 +14,5 @@
 - React.js
 - TypeScript
 - Node.js
-- Mongo.db
-- Redux
 - Angular
 - Firebase
