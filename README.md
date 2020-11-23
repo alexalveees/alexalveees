@@ -1,4 +1,4 @@
-<h1 align = "center"> Desenvolvedor Web Full Stack 😁 </h1>
+<h1 align = "center"> Desenvolvedor  😁 </h1>  
 
 - Alex Alves Fonseca de Deus
 - 23 anos
