@@ -4,7 +4,7 @@
 - 23 anos
 - Belo Horizonte, MG
 
-###  Conhecimentos
+### Conhecimentos 🧑‍💻
 - Java
 - Spring MVC
 - HTML
