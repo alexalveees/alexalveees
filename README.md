@@ -11,8 +11,6 @@
 - CSS
 - JavaScript
 - Bootstrap
-- React.js
 - TypeScript
-- Node.js
 - Angular
 - Firebase
