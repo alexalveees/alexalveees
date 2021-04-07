@@ -1,12 +1,13 @@
-<h1 align = "center"> Desenvolvedor  😁 </h1>  
+# Desenvolvedor Java 😁
 
 - Alex Alves Fonseca de Deus
 - 23 anos
-- Belo Horizonte, MG
+- Minas Gerais
 
 ### Conhecimentos 🧑‍💻
+
 - Java
-- Spring MVC
+- Spring Boot
 - HTML
 - CSS
 - JavaScript
