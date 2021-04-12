@@ -6,7 +6,7 @@
 
 ### Conhecimentos 🧑‍💻
 
-- Java+
+- Java 8+
 - Spring Boot
 - Maven
 - HTML
