@@ -9,6 +9,8 @@
 - Java 8+
 - Spring Boot
 - Maven
+- Junit
+- TDD
 - HTML
 - CSS
 - JavaScript
