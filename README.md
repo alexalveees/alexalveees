@@ -8,7 +8,9 @@
 
 - Java 8+
 - Spring Boot
+- IntelliJ IDEA
 - Maven
+- Docker
 - Junit
 - TDD
 - HTML
