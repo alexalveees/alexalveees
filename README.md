@@ -1,7 +1,7 @@
 # Desenvolvedor Java 😁
 
 - Alex Alves Fonseca de Deus
-- 23 anos
+- 24 anos
 - Minas Gerais
 
 ### Conhecimentos 🧑‍💻
