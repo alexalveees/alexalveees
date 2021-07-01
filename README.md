@@ -8,15 +8,9 @@
 
 - Java 8+
 - Spring Boot
-- IntelliJ IDEA
+- JPA
 - Maven
 - Docker
 - Junit
-- TDD
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- TypeScript
-- Angular
-- Firebase
+
+
