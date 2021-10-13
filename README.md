@@ -12,5 +12,8 @@
 - Maven
 - Docker
 - Junit
+- Git
+- GitHub
+- SVN
 
 
