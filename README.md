@@ -6,7 +6,7 @@
 
 ### Conhecimentos 🧑‍💻
 
-- Java 7+
+- Java 
 - Spring Boot
 - JPA
 - Maven
