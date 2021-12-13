@@ -9,9 +9,16 @@
 - Java 
 - Spring Boot
 - JPA
+- SQL
+- API Rest
+- Postman
+- Scrum
+- PostgreSQL
 - Maven
 - Docker
 - Junit
+- Jira
+- Angular
 - Git
 - GitHub
 - SVN
