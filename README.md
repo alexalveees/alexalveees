@@ -1,4 +1,4 @@
-# Desenvolvedor Java <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+# Desenvolvedor<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 - Alex Alves Fonseca de Deus
 - 24 anos
 - Belo Horizonte/MG
