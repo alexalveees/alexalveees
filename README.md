@@ -32,6 +32,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/alexalveees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/alexalveees/snake-image/blob/main/snake.svg)
+  ![Snake animation](https://github.com/alexalveees/alexalveees/blob/master/snake.svg)
  
 </div>
